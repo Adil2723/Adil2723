@@ -18,9 +18,7 @@ This GitHub repository contains projects and code related to what I've learned s
 
 ## 📫 Connect with Me  
 📧 Email: [masadil942@gmail.com](mailto:masadil942@gmail.com)  
-🔗 GitHub: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)  
+🔗 GitHub: [github.com/Adil2723](https://github.com/Adil2723)  
 🔗 LinkedIn: [Muhammad Adil Saeed](https://www.linkedin.com/in/muhammad-adil-saeed-904698292)  
 
----
-
-**"Always learning, always building!"** 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
