@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Adil Saeed! 👋  
 
-<!--
-**Adil2723/Adil2723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a **Computer Science student at FAST University**, with experience in **C, C++, JavaScript, HTML, and CSS**. I enjoy working on **management systems and exploring different technologies**.  
 
-Here are some ideas to get you started:
+## 🔥 Languages & Technologies  
+- **💻 Programming:** C, C++, JavaScript, HTML, CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Notable Projects  
+- **♟️ 1v1 Chess Game (SFML, C++)** – A graphical chess game with move validation and game state saving  
+- **🍽️ Restaurant Management System (C)** – A command-line system for order management and billing  
+- **💧 Water-Sensitive Alarm** – A hardware project using a breadboard for water detection  
+
+## 📂 What You’ll Find in This Account  
+This GitHub repository contains projects and code related to what I've learned so far, including:  
+- **Programming concepts in C and C++**  
+- **Small and large-scale coding projects**  
+
+## 📫 Connect with Me  
+📧 Email: [masadil942@gmail.com](mailto:masadil942@gmail.com)  
+🔗 GitHub: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)  
+🔗 LinkedIn: [Muhammad Adil Saeed](https://www.linkedin.com/in/muhammad-adil-saeed-904698292)  
+
+---
+
+**"Always learning, always building!"** 🚀
