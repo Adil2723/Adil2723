@@ -1,10 +1,11 @@
 # Hi there, I'm Muhammad Adil Saeed! 👋  
 
 ## 🚀 About Me  
-I'm a **Computer Science student at FAST University**, with experience in **C, C++, JavaScript, HTML, and CSS**. I enjoy working on **management systems and exploring different technologies**.  
+I'm a **Computer Science student at FAST University**, passionate about programming and problem-solving. My primary focus is on **C and C++**, and I enjoy working on management systems and algorithmic challenges.  
 
-## 🔥 Languages & Technologies  
-- **💻 Programming:** C, C++, JavaScript, HTML, CSS  
+## 💻 Languages & Technologies  
+- **Programming:** C, C++  
+- **Tools & Frameworks:** SFML (for graphics), Git & GitHub  
 
 ## 🏆 Notable Projects  
 - **♟️ 1v1 Chess Game (SFML, C++)** – A graphical chess game with move validation and game state saving  
@@ -14,11 +15,16 @@ I'm a **Computer Science student at FAST University**, with experience in **C, C
 ## 📂 What You’ll Find in This Account  
 This GitHub repository contains projects and code related to what I've learned so far, including:  
 - **Programming concepts in C and C++**  
-- **Small and large-scale coding projects**  
+- **Implementation of algorithms and data structures**  
+- **System-based applications and logical problem-solving**  
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adil2723&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
 📧 Email: [masadil942@gmail.com](mailto:masadil942@gmail.com)  
-🔗 GitHub: [github.com/Adil2723](https://github.com/Adil2723)  
 🔗 LinkedIn: [Muhammad Adil Saeed](https://www.linkedin.com/in/muhammad-adil-saeed-904698292)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+---
+
+**"Always learning, always building!"** 🚀
