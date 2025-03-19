@@ -14,5 +14,6 @@ Muhammad Adil Saeed<br>Aspiring Computer Scientist | Interested in Data Science,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adil2723&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AdilSaeed942&color=blue&style=fla
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
