@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Muhammad+Adil+Saeed;BSCS+Student+at+FAST+University;Aspiring+Software+Engineer;AI+%7C+Data+Science+%7C+Cybersecurity;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Muhammad+Adil+Saeed;BSCS+Student+at+FAST+University;Aspiring+Software+Engineer;Problem+Solver+%7C+Tech+Enthusiast;AI+%7C+Data+Science+%7C+Cybersecurity" />
 </h1>
 
 <p align="center">
@@ -8,12 +8,22 @@
 
 ---
 
-## 🌌 About Me
-- 🎓 BSCS Student at FAST University  
-- 💡 Passionate about Software Development & Problem Solving  
-- 🤖 Interested in AI, Data Science & Cybersecurity  
-- 🧠 Enjoy building logic-based systems and real-world projects  
-- 🚀 Constantly learning and improving my skills  
+## 👨‍💻 About Me
+- 🎓 BSCS student at **FAST University**
+- 💡 Passionate about **problem-solving and software development**
+- 🧠 Strong interest in **Data Structures, AI, and Cybersecurity**
+- ⚙️ Love building logic-based systems using programming
+- 🚀 Currently improving my skills in **C, C++, Python, and Web Development**
+- 🎯 Focused on becoming a strong **Software Engineer**
+
+---
+
+## 🧠 What I Do
+- 🔹 Solve programming problems & improve logic building  
+- 🔹 Work on academic and personal coding projects  
+- 🔹 Explore core computer science concepts  
+- 🔹 Practice competitive programming basics  
+- 🔹 Learn modern technologies step by step  
 
 ---
 
@@ -26,20 +36,6 @@
   <img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Project
-
-### 🍽️ Restaurant Management System (C Language)
-- 📌 1st Semester Programming Fundamentals (PF) Final Project  
-- 🧩 Built using core C programming concepts  
-- 💻 Console-based application  
-
-**Features:**
-- Menu Management  
-- Order Processing  
-- Billing System  
 
 ---
 
@@ -77,5 +73,5 @@
 </p>
 
 <p align="center">
-  ⚡ Code • Build • Learn • Repeat ⚡
+  <b>⚡ Code • Learn • Build • Improve ⚡</b>
 </p>
