@@ -1,29 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Muhammad+Adil+Saeed;BSCS+Student+at+FAST+University;Aspiring+Software+Engineer;Problem+Solver+%7C+Tech+Enthusiast;AI+%7C+Data+Science+%7C+Cybersecurity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Muhammad+Adil+Saeed;BSCS+Student+at+FAST+University;Software+Development+%7C+Problem+Solving;C+%7C+C%2B%2B+%7C+Python+%7C+Web+Tech" />
 </h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 BSCS student at **FAST University**
-- 💡 Passionate about **problem-solving and software development**
-- 🧠 Strong interest in **Data Structures, AI, and Cybersecurity**
-- ⚙️ Love building logic-based systems using programming
-- 🚀 Currently improving my skills in **C, C++, Python, and Web Development**
-- 🎯 Focused on becoming a strong **Software Engineer**
+- 💡 Focused on software development and problem-solving
+- 🧠 Interested in Data Structures, Algorithms, and System Design basics
+- ⚙️ Experience with **C, C++, Python, HTML, CSS, JavaScript**
+- 🚀 Enjoy building logic-based and structured programming projects
+- 🎯 Continuously improving core computer science fundamentals
 
 ---
 
-## 🧠 What I Do
-- 🔹 Solve programming problems & improve logic building  
-- 🔹 Work on academic and personal coding projects  
-- 🔹 Explore core computer science concepts  
-- 🔹 Practice competitive programming basics  
-- 🔹 Learn modern technologies step by step  
+## 🧠 Interests & Focus Areas
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Artificial Intelligence fundamentals  
+- Cybersecurity concepts  
+- Competitive programming practice  
+- Full-stack development basics  
 
 ---
 
@@ -69,9 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
-
-<p align="center">
-  <b>⚡ Code • Learn • Build • Improve ⚡</b>
+  ⚡ Code • Learn • Build • Improve • Repeat ⚡
 </p>
