@@ -54,9 +54,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 
-  <a href="https://instagram.com/adil._.saeed">
-    <img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
   <a href="mailto:masadil942@gmail.com">
     <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/>
