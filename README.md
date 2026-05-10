@@ -1,4 +1,6 @@
-<h1 align="center">Muhammad Adil Saeed</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Muhammad+Adil+Saeed;BSCS+Student+%40+FAST+Karachi;AI+%7C+Software+Development;Systems+Programming+%7C+Linux" />
+</h1>
 
 <p align="center">
   BSCS Student @ FAST Karachi <br>
@@ -36,6 +38,14 @@
 
 ---
 
+## 📌 Projects
+
+- Face Recognition Attendance System  
+- Restaurant Management System  
+- Ping Pong Game in Assembly  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -58,4 +68,3 @@
 <p align="center">
   ⭐ Code • Learn • Build
 </p>
-
