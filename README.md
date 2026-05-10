@@ -51,13 +51,6 @@
 
 ---
 
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/muhammad-adil-saeed-904698292  
-- Email: masadil942@gmail.com  
-
----
-
 <p align="center">
   ⭐ Code • Learn • Build
 </p>
