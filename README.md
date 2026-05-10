@@ -38,13 +38,6 @@
 
 ---
 
-## 📌 Projects
-
-- Face Recognition Attendance System  
-- Restaurant Management System  
-- Ping Pong Game in Assembly  
-
----
 
 ## 📊 GitHub Stats
 
