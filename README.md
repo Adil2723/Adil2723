@@ -61,61 +61,47 @@
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-### 🤖 Face Recognition Attendance System
+### 🤖 [Face Recognition Attendance System](https://github.com/Adil2723/Face-Recognition-Attendence-System)
 > AI-powered attendance system using facial recognition.
 
-- 📂 **Repository:** https://github.com/Adil2723/Face-Recognition-Attendence-System
-
 ---
 
-### 🚌 Karachi Smart Transit System
+### 🚌 [Karachi Smart Transit System](https://github.com/Adil2723/Karachi-Smart-Transit-System)
 > Smart transit management system for route planning and transportation.
 
-- 📂 **Repository:** https://github.com/Adil2723/Karachi-Smart-Transit-System
-
 ---
 
-### ♟️ SFML Chess (OOP)
+### ♟️ [SFML Chess (OOP)](https://github.com/Adil2723/SFML-Chess-OOP)
 > Chess game built in C++ using SFML with Object-Oriented Programming concepts.
 
-- 📂 **Repository:** https://github.com/Adil2723/SFML-Chess-OOP
-
 ---
 
-### 👾 SFML Pacman (DSA)
+### 👾 [SFML Pacman (DSA)](https://github.com/Adil2723/SFML-Pacman-DSA)
 > Pacman game developed in C++ and SFML implementing Data Structures & Algorithms.
 
-- 📂 **Repository:** https://github.com/Adil2723/SFML-Pacman-DSA
-
 ---
 
-### 🎬 CineFlex Movie Booking System
+### 🎬 [CineFlex Movie Booking System](https://github.com/Adil2723/Cineflex-MovieBookingSystem)
 > Movie ticket booking system with booking and management features.
 
-- 📂 **Repository:** https://github.com/Adil2723/Cineflex-MovieBookingSystem
-
 ---
 
-### 🍽️ Restaurant Order Management Simulator
+### 🍽️ [Restaurant Order Management Simulator](https://github.com/Adil2723/Restaurant-Order-Management-Simulator)
 > Restaurant order simulation project for efficient order handling.
 
-- 📂 **Repository:** https://github.com/Adil2723/Restaurant-Order-Management-Simulator
-
 ---
 
-### 🏓 Ping Pong (Assembly Language)
+### 🏓 [Ping Pong (Assembly Language)](https://github.com/Adil2723/PingPong-ASM)
 > Classic Ping Pong game implemented in x86 Assembly Language.
 
-- 📂 **Repository:** https://github.com/Adil2723/PingPong-ASM
-
 ---
 
-### 🍴 Restaurant Management System
+### 🍴 [Restaurant Management System](https://github.com/Adil2723/Restaurant-Management-System)
 > Restaurant management application for handling menus, customers, and orders.
-
-- 📂 **Repository:** https://github.com/Adil2723/Restaurant-Management-System
 
 ---
 
