@@ -119,22 +119,11 @@
 
 ---
 
-## 📂 More Projects
 
-🔗 **Explore all my repositories:**  
-https://github.com/Adil2723?tab=repositories
-
----
-
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adil2723&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Adil2723&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil2723&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adil2723&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
