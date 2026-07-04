@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adil Saeed</h1>
 
 <h3 align="center">
-BSCS Student at FAST-NUCES Karachi • Flutter Developer • AI Enthusiast
+BSCS Student at FAST-NUCES Karachi • Software Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-Building software, exploring AI, and learning something new every day.
+Passionate about building software, solving problems, and learning modern technologies.
 </p>
 
 <p align="center">
@@ -18,6 +18,9 @@ Building software, exploring AI, and learning something new every day.
   <a href="mailto:masadil942@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/Adil2723">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -25,26 +28,16 @@ Building software, exploring AI, and learning something new every day.
 ## 👨‍💻 About Me
 
 - 🎓 BSCS Student at **FAST-NUCES Karachi**
-- 📱 Learning **Flutter**, **Dart**, and **Firebase**
-- 💡 Interested in **Artificial Intelligence**, **Software Engineering**, and **Mobile Development**
-- 🐧 Exploring **Linux** and **Systems Programming**
-- 🚀 Building projects to strengthen problem-solving and development skills
-
----
-
-## 🚀 Currently Working On
-
-- 📱 Business Management App (Flutter)
-- 🎨 UI/UX Design
-- ☁️ Firebase Integration
-- 📚 Data Structures & Algorithms
+- 💻 Interested in **Artificial Intelligence**, **Software Development**, and **Systems Programming**
+- 🐧 Comfortable working with **Linux**
+- 🚀 Enjoy building practical projects and improving my problem-solving skills
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,firebase,html,css,js,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux,vscode" />
 </p>
 
 ---
@@ -52,7 +45,7 @@ Building software, exploring AI, and learning something new every day.
 ## ⭐ Featured Projects
 
 - 🤖 **[Face Recognition Attendance System](https://github.com/Adil2723/Face-Recognition-Attendence-System)**
-- 📱 **[Karachi Smart Transit System](https://github.com/Adil2723/Karachi-Smart-Transit-System)**
+- 🚌 **[Karachi Smart Transit System](https://github.com/Adil2723/Karachi-Smart-Transit-System)**
 - ♟️ **[SFML Chess (OOP)](https://github.com/Adil2723/SFML-Chess-OOP)**
 - 👾 **[SFML Pacman (DSA)](https://github.com/Adil2723/SFML-Pacman-DSA)**
 - 🎬 **[CineFlex Movie Booking System](https://github.com/Adil2723/Cineflex-MovieBookingSystem)**
