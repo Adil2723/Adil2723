@@ -15,8 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing a **BS in Computer Science** at **FAST-NUCES Karachi**.
-- 💡 Deeply interested in **Artificial Intelligence**, **Intelligent Systems**, and **Systems Programming**.
-- 🐧 Daily **Linux** user comfortable with command-line environments and shell scripting.
+- 💡 Deeply interested in **Artificial Intelligence**, **Data Science**, and **Software Development**.
 - 🚀 Focused on writing clean, efficient code and continuous core problem-solving.
 
 ---
