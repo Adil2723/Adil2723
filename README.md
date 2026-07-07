@@ -7,10 +7,10 @@
 
 **BSCS Student at FAST-NUCES Karachi • Software Development & AI Enthusiast**
 
-[Portfolio](https://adil2723.github.io/portfolio/) •
-[LinkedIn](https://linkedin.com/in/muhammad-adil-saeed-904698292) •
-[GitHub](https://github.com/Adil2723) •
-[Email](mailto:masadil942@gmail.com)
+<a href="https://adil2723.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muhammad-adil-saeed-904698292"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:masadil942@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Adil2723"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -50,8 +50,36 @@ I'm a BS Computer Science student at **FAST-NUCES Karachi** with a strong intere
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
+<div align="center">
+
+<a href="https://github.com/Adil2723/Face-Recognition-Attendence-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=Face-Recognition-Attendence-System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Adil2723/SFML-Pacman-DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=SFML-Pacman-DSA&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Adil2723/SFML-Chess-OOP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=SFML-Chess-OOP&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Adil2723/Karachi-Smart-Transit-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=Karachi-Smart-Transit-System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Adil2723/Cineflex-MovieBookingSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=Cineflex-MovieBookingSystem&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Adil2723/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+-----|-------------|
 | **Face Recognition Attendance** | Computer vision attendance system using Python and OpenCV. |
 | **SFML Pacman** | Classic Pacman game built with C++, SFML and DSA concepts. |
 | **SFML Chess** | Chess game implementing OOP principles with SFML. |
@@ -97,9 +125,25 @@ I'm a BS Computer Science student at **FAST-NUCES Karachi** with a strong intere
 
 ## 🤝 Connect
 
-- 🌐 Portfolio: https://adil2723.github.io/portfolio/
-- 💼 LinkedIn: https://linkedin.com/in/muhammad-adil-saeed-904698292
-- 📧 Email: masadil942@gmail.com
+<div align="center">
+
+<a href="https://adil2723.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/muhammad-adil-saeed-904698292">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:masadil942@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Adil2723">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
