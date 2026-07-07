@@ -1,30 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=250&section=header&text=MUHAMMAD%20ADIL%20SAEED&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BSCS%20Student%20@%20FAST-NUCES%20Karachi%20|%20Software%20Development%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=250&section=header&text=MUHAMMAD%20ADIL%20SAEED&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BSCS%20Student%20at%20FAST-NUCES%20Karachi%20%E2%80%A2%20Software%20Development%20and%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <br>
 
 <a href="https://adil2723.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge" />
 </a>
 
 <a href="https://linkedin.com/in/muhammad-adil-saeed-904698292">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:masadil942@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/Adil2723">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real-world+problems.;Passionate+about+Software+Development.;Exploring+Artificial+Intelligence+%26+Computer+Vision.;Learning+through+projects+and+problem+solving." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real-world+problems.;Passionate+about+Software+Development.;Exploring+Artificial+Intelligence+and+Computer+Vision.;Learning+through+projects+and+problem+solving." alt="Typing SVG" />
 
-</div>
 
 ---
 
