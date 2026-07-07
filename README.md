@@ -12,33 +12,41 @@
 <a href="mailto:masadil942@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Adil2723"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Artificial+Intelligence+Enthusiast;Problem+Solver;Always+Learning"/>
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a BS Computer Science student at **FAST-NUCES Karachi** with a strong interest in software development and artificial intelligence. I enjoy building practical projects that strengthen my understanding of programming, object-oriented design, data structures, databases, and computer vision.
+I'm a **BS Computer Science** student at **FAST-NUCES Karachi** passionate about software development and artificial intelligence.
+
+I enjoy building practical projects that strengthen my understanding of **Object-Oriented Programming**, **Data Structures & Algorithms**, **Database Systems**, and **Computer Vision**, while continuously improving my problem-solving skills.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web & Database**
+### Web & Database
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Libraries & Tools**
+### Libraries & Tools
 
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -46,63 +54,24 @@ I'm a BS Computer Science student at **FAST-NUCES Karachi** with a strong intere
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Adil2723/Face-Recognition-Attendence-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=Face-Recognition-Attendence-System&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Adil2723/SFML-Pacman-DSA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=SFML-Pacman-DSA&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Adil2723/SFML-Chess-OOP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=SFML-Chess-OOP&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Adil2723/Karachi-Smart-Transit-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=Karachi-Smart-Transit-System&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Adil2723/Cineflex-MovieBookingSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=Cineflex-MovieBookingSystem&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Adil2723/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=portfolio&theme=tokyonight&hide_border=true"/>
-</a>
+<a href="https://github.com/Adil2723/Face-Recognition-Attendence-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=Face-Recognition-Attendence-System&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Adil2723/SFML-Pacman-DSA"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=SFML-Pacman-DSA&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Adil2723/SFML-Chess-OOP"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=SFML-Chess-OOP&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Adil2723/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Adil2723&repo=portfolio&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
 ---
------|-------------|
-| **Face Recognition Attendance** | Computer vision attendance system using Python and OpenCV. |
-| **SFML Pacman** | Classic Pacman game built with C++, SFML and DSA concepts. |
-| **SFML Chess** | Chess game implementing OOP principles with SFML. |
-| **Karachi Smart Transit** | Transit routing project using graph-based algorithms. |
-| **CineFlex** | Movie booking system using C++ and OOP. |
-| **Portfolio Website** | Responsive portfolio hosted on GitHub Pages. |
 
----
-
-## 📚 Core Coursework
-
-- Programming Fundamentals
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Artificial Intelligence
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adil2723&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -123,33 +92,11 @@ I'm a BS Computer Science student at **FAST-NUCES Karachi** with a strong intere
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
 
-<a href="https://adil2723.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+### ⭐ Thanks for visiting!
 
-<a href="https://linkedin.com/in/muhammad-adil-saeed-904698292">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:masadil942@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Adil2723">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**Code • Learn • Build • Repeat 🚀**
+**Code • Learn • Build • Repeat**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=100&section=footer"/>
 
